@@ -1,4 +1,4 @@
 # maven-project
 
-Simple Maven Project for CI/CD
+Simple Maven Project for CI/CD job
 <br
